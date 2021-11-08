@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="./style.css">
+    <title>Jogo da Velha</title>
+</head>
+
+<body>
+    <h1>Jogo Da Velha </h1>
+
+    <div class="kp">
+
+        <div class="stage">
+            <div>
+                <div id="0" class="square"></div>
+                <div id="1" class="square"></div>
+                <div id="2" class="square"> </div>
+            </div>
+
+            <div>
+                <div id="3" class="square"> </div>
+                <div id="4" class="square"> </div>
+                <div id="5" class="square"> </div>
+            </div>
+
+            <div>
+                <div id="6" class="square"> </div>
+                <div id="7" class="square"> </div>
+                <div id="8" class="square"> </div>
+            </div>
+
+            <button id="butao" onclick="reiniciar()">RESET BOARD GAME</button>
+
+        </div>
+
+        <div class="container">
+            <div class="players">
+                <h2>JOGADORES</h2>
+                <div class="player_container">
+                    <input id="player1" type="text" placeholder="Jogador - O">
+                </div>
+                <div class="player_container">
+                    <input id="player2" type="text" placeholder="Jogador - X">
+                </div>
+
+
+            </div>
+            <div class="numberOfWins">
+                <h2>VITÓRIAS</h2>
+                <h2 id="player1Wins"></h2>
+                <h2 id="player2Wins"></h2>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="./script.js/game.js"></script>
+    <script src="./script.js/interface.js"></script>
+
+</body>
+
+</html>
