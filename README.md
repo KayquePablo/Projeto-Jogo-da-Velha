@@ -4,6 +4,7 @@
 
 Projeto desenvolvido no curso de FULL STACK e teve como finalidade criar o jogo da velha (Tic-Tac-Toe), e como desafio final de colocar um botão para reiniciar o jogo.
 
+<img align = "center" alt = "imac" src = "./Assets/imac-macbook-pro.png">
 
 ## Implementações 📑 
 - Foi acrescentado um campo para colocar o nome dos Jogadores da partida
@@ -14,6 +15,6 @@ Projeto desenvolvido no curso de FULL STACK e teve como finalidade criar o jogo 
 ## Tecnologias Usadas 💻
 <div align = "lefth">
  <img align = "center" alt = "HTML" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align = "center" alt = "HTML" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align = "center" alt = "HTML" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
+ <img align = "center" alt = "CSS" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align = "center" alt = "JS" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
  </div>
